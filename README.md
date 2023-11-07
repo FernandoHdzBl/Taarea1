@@ -1,6 +1,7 @@
 ---------------------------------------------
 # 🧠: Aplicación de Memoria
 *Esta aplicación sirve para hacer un test de memoria.*
+*Cualquier aportacion es bienvenida*
 --------------------------------------------
 ## Ejemplo de shuffle de numeros y mostrar imagenes con intervalo de 1 segundo
 ```swift
