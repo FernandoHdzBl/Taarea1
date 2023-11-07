@@ -10,12 +10,12 @@ ImagesListRandom = ImagesList.shuffled()
 >Con el codigo anteriormente mostrado se recogen las imagenes y se muestran en un orden aleatorio en un array llamado ImagesListRandom
 ---------------------------------------------------------------
 ## Imagenes usadas
-- [Imagen titulada arboles](Arboles.JPEG)
-- [Imagen titulada barco](Barco.JPEG)
-- [Imagen titulada lago](Lago.JPEG)
-- [Imagen titulada montaña](Montaña.JPEG)
-- [Imagen titulada puestaSol](puestaSol.JPEG)
-- [Imagen titulada Turquesa](Turquesa.JPEG)
+- [Imagen titulada arboles](Arboles.jpeg)
+- [Imagen titulada barco](Barco.jpeg)
+- [Imagen titulada lago](Lago.jpeg)
+- [Imagen titulada montaña](Montaña.jpeg)
+- [Imagen titulada puestaSol](puestaSol.jpeg)
+- [Imagen titulada Turquesa](Turquesa.jpeg)
 ---------------------------------------------------
 ## Cosas por hacer
 - [x] Pantalla inicio
