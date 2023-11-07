@@ -21,6 +21,7 @@ ImagesListRandom = ImagesList.shuffled()
   >Aqui se mostraran las imagenes usadas en la app
 ---------------------------------------------------
 ## Cosas por hacer
+>Aqui muestro con la casilla marcada las tareas completadas
 - [x] Pantalla inicio
 - [x] Pantalla Sliders/Imagenes
 - [x] Randomizar imagenes
