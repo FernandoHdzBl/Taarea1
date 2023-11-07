@@ -1,5 +1,7 @@
+---------------------------------------------
 # 🧠: Aplicación de Memoria
 *Esta aplicación sirve para hacer un test de memoria.*
+--------------------------------------------
 ## Ejemplo de shuffle de numeros y mostrar imagenes con intervalo de 1 segundo
 ```swift
 ImagesListRandom = ImagesList.shuffled()
