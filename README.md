@@ -18,6 +18,7 @@ ImagesListRandom = ImagesList.shuffled()
 - [Imagen titulada montaña](Montaña.jpeg)
 - [Imagen titulada puestaSol](puestaSol.jpeg)
 - [Imagen titulada Turquesa](Turquesa.jpeg)
+  >Aqui se mostraran las imagenes usadas en la app
 ---------------------------------------------------
 ## Cosas por hacer
 - [x] Pantalla inicio
